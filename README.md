@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Keval Solanki 👋
 
-<!--
-**Kevalg-Solanki/Kevalg-Solanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer specializing in SaaS applications, Chrome Extensions, and business automation tools.
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Chrome Extensions
+* SaaS Applications
+* Business Automation Tools
+* REST APIs
+* Multi-Tenant Systems
+
+## Featured Projects
+
+### QR Machine
+
+Commercial Chrome Extension for generating and exporting single and bulk QR codes.
+
+**Highlights**
+
+* Bulk QR generation (up to 1000 QR codes)
+* Offline-first processing
+* PDF, SVG, and ZIP exports
+* Lemon Squeezy licensing
+* Client-side DRM
+* Performance & memory optimization
+
+### MyInventory
+
+Multi-tenant inventory management platform with role-based access control, JWT authentication, and scalable backend architecture.
+
+### Hunger Helpers
+
+Food donation and volunteer coordination platform featuring authentication, RBAC, analytics, reporting, and real-time notifications.
+
+## Tech Stack
+
+Frontend:
+React.js • TypeScript • Redux • Tailwind CSS
+
+Backend:
+Node.js • Express.js • REST APIs • JWT
+
+Database:
+MongoDB • Mongoose
+
+Tools:
+Git • GitHub • Postman • Figma • PM2
+
+## Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/kevalg-solanki
+
+Email:
+[kevalg1950@gmail.com](mailto:kevalg1950@gmail.com)
