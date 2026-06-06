@@ -2,50 +2,73 @@
 
 Full-Stack Developer specializing in SaaS applications, Chrome Extensions, and business automation tools.
 
-## What I Build
+## About Me
 
-* Chrome Extensions
-* SaaS Applications
-* Business Automation Tools
-* REST APIs
-* Multi-Tenant Systems
+* Built and launched a commercial Chrome Extension (QR Machine)
+* Experience working on SaaS products for international clients
+* Strong focus on backend architecture, REST APIs, authentication, and business workflows, UI/UX
+* Interested in SaaS, automation tools, Chrome Extensions, and scalable web applications
 
 ## Featured Projects
 
-### QR Machine
+### QR Machine — Commercial Chrome Extension
 
-Commercial Chrome Extension for generating and exporting single and bulk QR codes.
+A Chrome Extension for generating and exporting single and bulk QR codes.
 
 **Highlights**
 
-* Bulk QR generation (up to 1000 QR codes)
-* Offline-first processing
+* Generate up to 1000 QR codes from CSV files
 * PDF, SVG, and ZIP exports
-* Lemon Squeezy licensing
-* Client-side DRM
-* Performance & memory optimization
+* Offline-first processing
+* Lemon Squeezy licensing & payments
+* Client-side DRM implementation
+* Memory and performance optimization
+* UI/UX
+
+**Links**
+
+* Chrome Web Store: https://chromewebstore.google.com/detail/dgbfbbloongaponnkdbiknpccbaaemoi
+* Landing Page: https://qr-machine.tooljar.site/
 
 ### MyInventory
 
-Multi-tenant inventory management platform with role-based access control, JWT authentication, and scalable backend architecture.
+Multi-tenant inventory management platform featuring:
+
+* JWT Authentication
+* OTP Verification
+* RBAC (Role-Based Access Control)
+* Multi-Tenant Architecture
+* Service Layer & Repository Pattern
+
+Repository:
+https://github.com/Kevalg-Solanki/MyInventory
 
 ### Hunger Helpers
 
-Food donation and volunteer coordination platform featuring authentication, RBAC, analytics, reporting, and real-time notifications.
+Food donation and volunteer coordination platform featuring:
+
+* 50+ REST APIs
+* JWT Authentication
+* RBAC
+* Analytics & Reporting
+* Real-time Notifications
+
+Repository:
+https://github.com/Kevalg-Solanki/Hunger-Helpers
 
 ## Tech Stack
 
-Frontend:
+**Frontend**
 React.js • TypeScript • Redux • Tailwind CSS
 
-Backend:
-Node.js • Express.js • REST APIs • JWT
+**Backend**
+Node.js • Express.js • REST APIs • JWT • Software Architecture
 
-Database:
-MongoDB • Mongoose
+**Database**
+MongoDB • Mongoose • Database Design
 
-Tools:
-Git • GitHub • Postman • Figma • PM2
+**Tools**
+Git • GitHub • Postman • Figma • Jira • Draw.io • Lucidchart
 
 ## Connect With Me
 
