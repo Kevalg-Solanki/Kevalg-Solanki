@@ -11,7 +11,7 @@ Full-Stack Developer specializing in SaaS applications, Chrome Extensions, and b
 
 ## Featured Projects
 
-### QR Machine — Commercial Chrome Extension
+### QR Machine - Commercial Chrome Extension
 
 A Chrome Extension for generating and exporting single and bulk QR codes.
 
