@@ -30,7 +30,7 @@ A Chrome Extension for generating and exporting single and bulk QR codes.
 * Chrome Web Store: https://chromewebstore.google.com/detail/dgbfbbloongaponnkdbiknpccbaaemoi
 * Landing Page: https://www.tooljar.site/qr-machine/
 
-### Instant HTML - Browser-Based HTML Editor & Chrome Extension
+### Instant HTML - Browser-Based HTML Editor
 
 A browser-based HTML editor for quickly prototyping and testing HTML/CSS with a live preview.
 
